@@ -16,6 +16,3 @@ vblink = input("Write Webhook Url:")
 requests.delete(vblink)
 
 print("Webhook Deleted.")
-
-
--- Credits ! Singo#9999
